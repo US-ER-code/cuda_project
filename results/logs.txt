@@ -1,0 +1,2 @@
+Processed 120 images
+Execution time: 0.54651 seconds
