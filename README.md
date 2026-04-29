@@ -46,9 +46,3 @@ make
 ## Conclusion
 
 This project demonstrates that GPU acceleration is highly effective for large-scale image processing tasks.
-
-## Future Work
-
-* Add Gaussian blur
-* Optimize using shared memory
-* Extend to video processing
